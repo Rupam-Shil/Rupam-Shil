@@ -1,9 +1,6 @@
-### Hi there 👋
+ ### Hi there, I am Rupam Shil 👋
 
-<!--
-**Rupam-Shil/Rupam-Shil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## A Happy Developer Into The World Of Datascience 
 
 - 🔭 I’m currently working on Deep-Learning
 - 🌱 I’m currently learning Python Masteclass
