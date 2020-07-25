@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rupam Shil</h1>
 <h3 align="center">A Happy Developer Into The World Of Datascience</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupam-shil" alt="rupam-shil" /> </p>
+![ml](https://user-images.githubusercontent.com/68724228/88447042-d6838000-ce4c-11ea-9868-36dedafc8895.gif)
+
 
 - 🔭 I’m currently working on **Deep-Learning**
 
