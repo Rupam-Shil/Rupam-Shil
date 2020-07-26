@@ -5,8 +5,6 @@
  ![operation end crime](https://user-images.githubusercontent.com/68724228/88447873-9f659c80-ce55-11ea-864c-e52ec07be43b.gif)
 
 
- ![Caffeine Hideaway](https://user-images.githubusercontent.com/68724228/88472665-0b6a0280-cf33-11ea-8c88-6804dad9e7a8.gif)
-
 - 🔭 I’m currently working on **Deep-Learning**
 
 - 👯 I’m looking to collaborate on **Hello-World**
