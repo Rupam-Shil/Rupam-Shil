@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Deep-Learning**
 
-- 👯 I’m looking to collaborate on **Hello-World**
+- 👯 I’m looking to collaborate on <a href="https://github.com/Rupam-Shil/ML-mini-projects.git"><strong>ML-miniprojects</strong></a>
 
-- 🤔 I’m looking for help with **reactJS**
+- 🤔 I’m looking for help with **Artifical Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rupam-Shil?tab=repositories](https://github.com/Rupam-Shil?tab=repositories)
 
