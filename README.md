@@ -40,7 +40,7 @@
   <p align="center">
     <a target= "_blank" href="https://www.facebook.com/rupam.shil.14" alt="Facebook"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/facebook.png"></a>
     <a target= "_blank" href="https://github.com/Rupam-Shil/" alt="Github"><img height='45' src="hhttps://github.com/Rupam-Shil/Rupam-Shil/blob/master/github.png"></a>
-    <a target= "_blank" href="hhttps://www.instagram.com/imrupamshil/?hl=en" alt="Instagram"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/instagram.png"></a>
+    <a target= "_blank" href="https://www.instagram.com/imrupamshil/?hl=en" alt="Instagram"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/instagram.png"></a>
     <a target= "_blank" href="https://www.instagram.com/codecasting/?hl=en" alt="Instagram"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/instagram.png"></a>
     <a target= "_blank" href="https://www.linkedin.com/in/rupam-shil-74150a190/" alt="LinkedIn"><img height='45' src="https://github.com/Rupam-Shil/Rupam-Shil/blob/master/linkedin.png"></a>
     
