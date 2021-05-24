@@ -49,12 +49,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rupam-Shil&show_icons=true&theme=synthwave" alt="rupam-shil" /> </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/rupam-shil/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rupam-shil/" height="20" width="20" /></a>
-<a href="https://www.kaggle.com/rupamshil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/rupamshil" height="20" width="20" /></a>
-<a href="https://www.facebook.com/rupam.shil.14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/rupam.shil.14" height="20" width="20" /></a>
-<a href="https://instagram.com/mlbackbenchers/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/mlbackbenchers/" height="20" width="20" /></a>
-</p>
+
 
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
