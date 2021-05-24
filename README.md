@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rupam Shil</h1>
 <h3 align="center">&lt; I eat, I sleep Rest of the time I code &gt;</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rupam-shil" alt="rupam-shil" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rupam-shil" alt="rupam-shil" /> </p>
  
  ![operation end crime](https://user-images.githubusercontent.com/68724228/88447873-9f659c80-ce55-11ea-864c-e52ec07be43b.gif)
 
