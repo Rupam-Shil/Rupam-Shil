@@ -47,7 +47,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 <br/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rupam-shil&show_icons=true" alt="rupam-shil" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rupam-Shil&show_icons=true&theme=synthwave" alt="rupam-shil" /> </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rupam-shil/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rupam-shil/" height="20" width="20" /></a>
@@ -70,5 +70,6 @@
   
 </p>
 
-<p align="center">
- 
+[![Rupam's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam-Shil&theme=blue-green)](https://github.com/Rupam-Shil/github-readme-stats)
+[![Rupam's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Rupam-Shil&theme=blue-green)](https://github.com/Rupam-Shil/github-readme-streak-stats)
+
