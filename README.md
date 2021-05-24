@@ -64,7 +64,7 @@
   </p>
   
 </p>
-<p align="center">
-<p><img align="left" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam-Shil&theme=synthwave"></p>
-<p><img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupam-Shil&theme=synthwave"></p>
+<p align="left">
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam-Shil&theme=synthwave">
+<img  height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupam-Shil&theme=synthwave">
 </p>
