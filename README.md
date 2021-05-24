@@ -69,7 +69,7 @@
   </p>
   
 </p>
-
-[![Rupam's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam-Shil&theme=blue-green)](https://github.com/Rupam-Shil/github-readme-stats)
-[![Rupam's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Rupam-Shil&theme=blue-green)](https://github.com/Rupam-Shil/github-readme-streak-stats)
-
+<p align="center">
+<img align="left" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam-Shil&theme=synthwave">
+<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupam-Shil&theme=synthwave">
+</p>
