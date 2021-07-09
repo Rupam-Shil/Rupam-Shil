@@ -51,7 +51,7 @@
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" >
     </td>
     <td align='center'>
-        <img src="https://user-images.githubusercontent.com/68724228/119316381-85266600-bc94-11eb-97ed-3dafb4eb7a43.png" width="80">
+        <img src="https://user-images.githubusercontent.com/68724228/125097102-64ef2100-e0f3-11eb-884c-061d26d87078.png" width="80">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
