@@ -5,19 +5,15 @@
  ![operation end crime](https://user-images.githubusercontent.com/68724228/88447873-9f659c80-ce55-11ea-864c-e52ec07be43b.gif)
 
 
-- 🔭 I’m currently working on **Front-End Development**
-
-- 👯 I’m looking to collaborate on <a href="https://github.com/Rupam-Shil/ML-mini-projects.git"><strong>ML-miniprojects</strong></a>
-
-- 🤔 I’m looking for help with **MEVN Stack**
+- 🔭 I’m currently working at **Incubatehub** as a **Front End Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rupam-Shil?tab=repositories](https://github.com/Rupam-Shil?tab=repositories)
 
-- 📝 I regulary create content on [https://www.instagram.com/thesyntacticsugar/](https://www.instagram.com/thesyntacticsugar/)
+- 📝 I sometimes create content on [https://www.instagram.com/thesyntacticsugar/](https://www.instagram.com/thesyntacticsugar/)
 
 - 💬 Ask me about **Machine-Learning, Web-Dev, Python**
 
-- 📫 How to reach me **rupamshil111@gmail.com**
+- 📫 How to reach me **rupamshill11@gmail.com**
 
 - ⚡ Follow me **https://www.instagram.com/mlbackbenchers/**
 
