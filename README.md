@@ -72,6 +72,23 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60">
     </td>
 </tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" width="120">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="60">
+    </td>
+</tr>
 </table>
 
 
