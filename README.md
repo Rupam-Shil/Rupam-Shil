@@ -89,6 +89,23 @@
         <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="60">
     </td>
 </tr>
+    <tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="60">
+    </td>
+</tr>
 </table>
 
 
