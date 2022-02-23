@@ -4,7 +4,7 @@
 
 ![Blue Personal Men LinkedIn Banner](https://user-images.githubusercontent.com/68724228/141668151-bdf2e22e-b22c-40bd-8807-0e172859ed35.png)
 
-- 🔭 I’m currently working at **Incubatehub** as a **Front End Developer**
+- 🔭 I’m currently working at **Gida Technologies** as a **Front End Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rupam-Shil?tab=repositories](https://github.com/Rupam-Shil?tab=repositories)
 
