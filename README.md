@@ -18,7 +18,7 @@
 
 - ⚡ Follow me **https://www.instagram.com/imrupamshil/**
 
-- 👨‍ Check me out **https://rupamshil.netlify.app/**
+- 👨‍ Check me out **https://rupamshil.netlify.app/**   - portfolio v2 will come soon!
 <h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
 <table width="100">
 <tr>
