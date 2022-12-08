@@ -109,7 +109,7 @@
 </table>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rupam-Shil&show_icons=true&theme=synthwave" alt="rupam-shil" /> </p>
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rupam-Shil&show_icons=true&theme=synthwave" alt="rupam-shil" /> </p> -->
 
 
 
@@ -126,8 +126,8 @@
   </p>
   
 </p>
-<p align="left">
+<!-- <p align="left">
 <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupam-Shil&theme=synthwave">
 <img align="right" height="300px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupam-Shil&theme=synthwave">
-</p>
-<img src="https://activity-graph.herokuapp.com/graph?username=Rupam-Shil&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+</p> -->
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Rupam-Shil&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB"> -->
