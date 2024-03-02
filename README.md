@@ -20,7 +20,7 @@
 
 - ⚡ Follow me **https://www.instagram.com/imrupamshil/**
 
-- 👨‍ Check me out **https://rupamshil.netlify.app/**   - portfolio v2 will come soon!
+- ‍😛 Check my unfinished portfolio **[https://rupamshil.netlify.app/](https://rupam-shil-portfolio.vercel.app/)** 
 <h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
 <table width="100">
 <tr>
