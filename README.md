@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working at **Gida Technologies** as a **Front End Developer**
 
+- 🚧 I'm currently building [https://metamorphlabs.ai/](https://metamorphlabs.ai/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/Rupam-Shil?tab=repositories](https://github.com/Rupam-Shil?tab=repositories)
 
 - 📝 I sometimes create content on [https://www.instagram.com/thesyntacticsugar/](https://www.instagram.com/thesyntacticsugar/)
