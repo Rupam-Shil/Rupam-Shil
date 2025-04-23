@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at **Gida Technologies** as a **Front End Developer**
 
-- 🚧 I'm currently building [https://metamorphlabs.ai/](https://metamorphlabs.ai/)
+- 🚧 I'm currently building [https://hashstack.finance](https://hashstack.finance)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rupam-Shil?tab=repositories](https://github.com/Rupam-Shil?tab=repositories)
 
